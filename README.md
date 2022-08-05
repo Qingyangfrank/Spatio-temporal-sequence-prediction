@@ -46,7 +46,7 @@
  
  - Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos
  [[paper]](https://ieeexplore.ieee.org/document/8691602)2020
- - ### CVPR
+  ### CVPR
       ####  CVPR 2020  conference papers:
       
 -  Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction
@@ -74,7 +74,7 @@
  - Long-Short Temporal Contrastive Learning of Video Transformers
 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Long-Short_Temporal_Contrastive_Learning_of_Video_Transformers_CVPR_2022_paper.html)2022
   
- - ### ICCV (2021)
+  ### ICCV (2021)
 
  - End-to-End Video Instance Segmentation via Spatial-Temporal Graph Neural Networks
  [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_End-to-End_Video_Instance_Segmentation_via_Spatial-Temporal_Graph_Neural_Networks_ICCV_2021_paper.html)2021
@@ -98,7 +98,7 @@
  - Multi-object Tracking with Neural Gating Using Bilinear LSTM[[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Chanho_Kim_Multi-object_Tracking_with_ECCV_2018_paper.pdf)2018
  - Spatio-temporal Transformer Network for Video Restoration[[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tae_Hyun_Kim_Spatio-temporal_Transformer_Network_ECCV_2018_paper.pdf)2018
 
- -  ### IPMI (2020-2022)
+   ### IPMI (2020-2022)
 
  - A Multi-scale Spatial and Temporal Attention Network on Dynamic Connectivity to Localize the Eloquent Cortex in Brain Tumor Patients[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-78191-0_19)2021
  - Hierarchical Bayesian LSTM for Head Trajectory Prediction on Omnidirectional Images[[paper]](https://pubmed.ncbi.nlm.nih.gov/34596534/)2021
@@ -115,7 +115,7 @@
  - Hierarchical LSTMs with Adaptive Attention for Visual Captioning[[paper]](https://ieeexplore.ieee.org/abstract/document/8620348)2020
  - Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos[[paper]](https://ieeexplore.ieee.org/document/8691602)2020
 
- - ### MICCAI (2020-2021)
+  ### MICCAI (2020-2021)
  
  - Attention based CNN-LSTM Network for Pulmonary Embolism Prediction on Chest Computed Tomography Pulmonary Angiograms
  [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87234-2_34)2021
@@ -127,7 +127,7 @@
  - Multimodal Sensing Guidewire for C-arm Navigation with Random UV Enhanced Optical Sensors using Spatio-temporal Networks[[paper]](https://miccai2021.org/openaccess/paperlinks/2021/09/01/329-Paper0398.html)2021
  - A Topological-Attention ConvLSTM Network and Its Application to EM Images[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87193-2_21)[[code]](https://github.com/YangjiaqiDig/Topology-Attention-ConvLSTM)2021
  - Intra-operative Forecasting of Growth Modulation Spine Surgery Outcomes with Spatio-Temporal Dynamic Networks[[paper]](https://link.springer.com/article/10.1007/s11548-021-02461-7)2020
- - ### ISBI (2020-2022)
+  ### ISBI (2020-2022)
  
  - Reconstruction of Resting State FMRI Using LSTM Variational Auto-Encoder on Subcortical Surface to Detect Epilepsy[[paper]](Reconstruction%20of%20Resting%20State%20FMRI%20Using%20LSTM%20Variational%20Auto-Encoder%20on%20Subcortical%20Surface%20to%20Detect%20Epilepsy)2022
  
