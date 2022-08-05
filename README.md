@@ -3,8 +3,8 @@
 
 
  - ### Survey of spatio-temporal sequence prediction methods[[pdf]](https://www.arocmag.com/article/01-2020-10-001.html) 2019
-     Author: 黎维，陶蔚，周星宇，潘志松
-     institution: People's Liberation Army Army University of Engineering
+     - Author: 黎维，陶蔚，周星宇，潘志松
+     - institution: People's Liberation Army Army University of Engineering
      
  ## Research direction
  
@@ -54,7 +54,7 @@
  - STINet: Spatio-Temporal-Interactive Network for Pedestrian Detection and Trajectory Prediction
  [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_STINet_Spatio-Temporal-Interactive_Network_for_Pedestrian_Detection_and_Trajectory_Prediction_CVPR_2020_paper.html)2020
  - Spatial-Temporal Graph Convolutional Network for Video-Based Person Re-Identification
- [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Spatial-Temporal_Graph_Convolutional_Network_for_Video-Based_Person_Re-Identification_CVPR_2020_paper.html)
+ [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Spatial-Temporal_Graph_Convolutional_Network_for_Video-Based_Person_Re-Identification_CVPR_2020_paper.html)2020
  - STAViS: Spatio-Temporal AudioVisual Saliency Network
  [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Tsiami_STAViS_Spatio-Temporal_AudioVisual_Saliency_Network_CVPR_2020_paper.html) [[code]](https://github.com/atsiami/STAViS.)2020
       #### CVPR 2021 conference papers
@@ -89,8 +89,16 @@
  [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Aich_Spatio-Temporal_Representation_Factorization_for_Video-Based_Person_Re-Identification_ICCV_2021_paper.html)[[code]](https://paperswithcode.com/paper/spatio-temporal-representation-factorization)2021
  
  - Video-Based Person Re-Identification With Spatial and Temporal Memory Networks[[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Eom_Video-Based_Person_Re-Identification_With_Spatial_and_Temporal_Memory_Networks_ICCV_2021_paper.html)[[code]](https://github.com/cvlab-yonsei/STMN)2021
+ - ### ECCV
+ - Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack Learning[[paper]](https://openaccess.thecvf.com/content_ECCV_2018/html/Chenyang_Si_Skeleton-Based_Action_Recognition_ECCV_2018_paper.html) [[code]](https://paperswithcode.com/dataset/ntu-rgb-d)2018
+ - Deep Video Quality Assessor: From Spatio-temporal Visual Sensitivity to A Convolutional Neural Aggregation Network[[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Woojae_Kim_Deep_Video_Quality_ECCV_2018_paper.pdf)2018
+ - Interaction-aware Spatio-temporal Pyramid Attention Networks for Action Classificationp[[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Du_Interaction-aware_Spatio-temporal_Pyramid_ECCV_2018_paper.pdf)2018
+ - Spatio-Temporal Channel Correlation Networks for Action Classification[[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ali_Diba_Spatio-Temporal_Channel_Correlation_ECCV_2018_paper.pdf)2018
+ - Propagating LSTM: 3D Pose Estimation based on Joint Interdependency[[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Kyoungoh_Lee_Propagating_LSTM_3D_ECCV_2018_paper.pdf)2018
+ - Multi-object Tracking with Neural Gating Using Bilinear LSTM[[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Chanho_Kim_Multi-object_Tracking_with_ECCV_2018_paper.pdf)2018
+ - Spatio-temporal Transformer Network for Video Restoration[[paper]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tae_Hyun_Kim_Spatio-temporal_Transformer_Network_ECCV_2018_paper.pdf)2018
+
  -  ### IPMI (2020-2022)
- 
 
  - A Multi-scale Spatial and Temporal Attention Network on Dynamic Connectivity to Localize the Eloquent Cortex in Brain Tumor Patients[[paper]](https://link.springer.com/chapter/10.1007/978-3-030-78191-0_19)2021
  - Hierarchical Bayesian LSTM for Head Trajectory Prediction on Omnidirectional Images[[paper]](https://pubmed.ncbi.nlm.nih.gov/34596534/)2021
@@ -154,6 +162,8 @@
  - [[Duke-MTMC-VideoReID]](https://paperswithcode.com/dataset/dukemtmc-videoreid)
  - [[iLIDS-VID]](https://paperswithcode.com/dataset/ilids-vid)
  - [[Human3.6M]](https://paperswithcode.com/dataset/human3-6m)
+ - [[Charades]](https://paperswithcode.com/dataset/charades)
+ - [[ImageNet]](https://paperswithcode.com/dataset/imagenet)
  ## Lab
  
  - ### [National Institutes of Health](https://www.nih.gov/)
