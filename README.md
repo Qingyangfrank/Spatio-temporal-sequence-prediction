@@ -47,7 +47,7 @@
  - Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos
  [[paper]](https://ieeexplore.ieee.org/document/8691602)2020
   ### CVPR
-      ####  CVPR 2020  conference papers:
+   ####  CVPR 2020  conference papers:
       
 -  Social-STGCNN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction
 [ [paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Mohamed_Social-STGCNN_A_Social_Spatio-Temporal_Graph_Convolutional_Neural_Network_for_Human_CVPR_2020_paper.html)[[code]](https://github.com/abduallahmohamed/Social-STGCNN.)2020
